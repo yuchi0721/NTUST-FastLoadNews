@@ -36,5 +36,5 @@ A IBM Cloud Watson Application
 
 # Author
 - Kevin Xu 徐儀翔
-- YoYo Lin 林佑錡
+- Jeff Lin 林佑錡
 - Mark Her 何昌鴻
